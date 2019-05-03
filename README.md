@@ -1,6 +1,8 @@
 # kubernetes-ansible
 
-This project was implemented from following web link.
+This repository contains the files to build a Kubernetes v1.14 cluster with Ansible.
+
+The project was implemented from following web link.
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04
 
